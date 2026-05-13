@@ -1,0 +1,71 @@
+match_id,date,venue,team1,team2,stage,toss_winner,toss_decision,first_ings_score,first_ings_wkts,second_ings_score,second_ings_wkts,match_result,match_winner,wb_runs,wb_wickets,balls_left,super_over_match
+1,"March 28, 2026","M. Chinnaswamy Stadium, Bangalore",SRH,RCB,League,RCB,Bowl,201,9,203,4,completed,RCB,,6,26,No
+2,"March 29, 2026","Wankhede Stadium, Mumbai",KKR,MI,League,MI,Bowl,220,4,224,4,completed,MI,,6,5,No
+3,"March 30, 2026","Barsapara Stadium, Guwahati",CSK,RR,League,RR,Bowl,127,10,128,2,completed,RR,,8,47,No
+4,"March 31, 2026","New PCA Cricket Stadium, Mullanpur",GT,PBKS,League,PBKS,Bowl,162,6,165,7,completed,PBKS,,3,5,No
+5,"April 01, 2026","Ekana Cricket Stadium, Lucknow",LSG,DC,League,DC,Bowl,141,10,145,4,completed,DC,,6,17,No
+6,"April 02, 2026","Eden Gardens, Kolkata",SRH,KKR,League,KKR,Bowl,226,8,161,10,completed,SRH,65,,24,No
+7,"April 03, 2026","MA Chidambaram Stadium, Chennai",CSK,PBKS,League,PBKS,Bowl,209,5,210,5,completed,PBKS,,5,8,No
+8,"April 04, 2026","Arun Jaitley Stadium, Delhi",MI,DC,League,DC,Bowl,162,6,164,4,completed,DC,,6,11,No
+9,"April 04, 2026","Narendra Modi Stadium, Ahmedabad",RR,GT,League,RR,Bat,210,6,204,8,completed,RR,6,,0,No
+10,"April 05, 2026","Rajiv Gandhi International Stadium, Hyderabad",SRH,LSG,League,LSG,Bowl,156,9,160,5,completed,LSG,,5,1,No
+11,"April 05, 2026","M. Chinnaswamy Stadium, Bangalore",RCB,CSK,League,CSK,Bowl,250,3,207,10,completed,RCB,43,,2,No
+12,"April 06, 2026","Eden Gardens, Kolkata",KKR,PBKS,League,KKR,Bat,,,,,abandoned,,,,,No
+13,"April 07, 2026","Barsapara Stadium, Guwahati",RR,MI,League,MI,Bowl,150,3,123,9,completed,RR,27,,0,No
+14,"April 08, 2026","Arun Jaitley Stadium, Delhi",GT,DC,League,DC,Bowl,210,4,209,8,completed,GT,1,,0,No
+15,"April 09, 2026","Eden Gardens, Kolkata",KKR,LSG,League,LSG,Bowl,181,4,182,7,completed,LSG,,3,0,No
+16,"April 10, 2026","Barsapara Stadium, Guwahati",RCB,RR,League,RR,Bowl,201,8,202,4,completed,RR,,6,12,No
+17,"April 11, 2026","New PCA Cricket Stadium, Mullanpur",SRH,PBKS,League,PBKS,Bowl,219,6,223,4,completed,PBKS,,6,7,No
+18,"April 11, 2026","MA Chidambaram Stadium, Chennai",CSK,DC,League,DC,Bowl,212,2,189,10,completed,CSK,23,,0,No
+19,"April 12, 2026","Ekana Cricket Stadium, Lucknow",LSG,GT,League,GT,Bowl,164,8,165,3,completed,GT,,7,8,No
+20,"April 12, 2026","Wankhede Stadium, Mumbai",RCB,MI,League,MI,Bowl,240,4,222,5,completed,RCB,18,,0,No
+21,"April 13, 2026","Rajiv Gandhi International Stadium, Hyderabad",SRH,RR,League,RR,Bowl,216,6,159,10,completed,SRH,57,,6,No
+22,"April 14, 2026","MA Chidambaram Stadium, Chennai",CSK,KKR,League,KKR,Bowl,192,5,160,7,completed,CSK,32,,0,No
+23,"April 15, 2026","M. Chinnaswamy Stadium, Bangalore",LSG,RCB,League,RCB,Bowl,146,10,149,5,completed,RCB,,5,29,No
+24,"April 16, 2026","Wankhede Stadium, Mumbai",MI,PBKS,League,PBKS,Bowl,195,6,198,3,completed,PBKS,,7,21,No
+25,"April 17, 2026","Narendra Modi Stadium, Ahmedabad",KKR,GT,League,KKR,Bat,180,10,181,5,completed,GT,,5,2,No
+26,"April 18, 2026","M. Chinnaswamy Stadium, Bangalore",RCB,DC,League,DC,Bowl,175,8,179,4,completed,DC,,6,1,No
+27,"April 18, 2026","Rajiv Gandhi International Stadium, Hyderabad",SRH,CSK,League,CSK,Bowl,194,9,184,8,completed,SRH,10,,0,No
+28,"April 19, 2026","Eden Gardens, Kolkata",RR,KKR,League,RR,Bat,155,9,161,6,completed,KKR,,4,2,No
+29,"April 19, 2026","New PCA Cricket Stadium, Mullanpur",PBKS,LSG,League,LSG,Bowl,254,7,200,5,completed,PBKS,54,,0,No
+30,"April 20, 2026","Narendra Modi Stadium, Ahmedabad",MI,GT,League,GT,Bowl,199,5,100,10,completed,MI,99,,25,No
+31,"April 21, 2026","Rajiv Gandhi International Stadium, Hyderabad",SRH,DC,League,DC,Bowl,242,2,195,9,completed,SRH,47,,0,No
+32,"April 22, 2026","Ekana Cricket Stadium, Lucknow",RR,LSG,League,LSG,Bowl,159,6,119,10,completed,RR,40,,12,No
+33,"April 23, 2026","Wankhede Stadium, Mumbai",CSK,MI,League,MI,Bowl,207,6,104,10,completed,CSK,103,,6,No
+34,"April 24, 2026","M. Chinnaswamy Stadium, Bangalore",GT,RCB,League,RCB,Bowl,205,3,206,5,completed,RCB,,5,7,No
+35,"April 25, 2026","Arun Jaitley Stadium, Delhi",DC,PBKS,League,DC,Bat,264,2,265,4,completed,PBKS,,6,7,No
+36,"April 25, 2026","Sawai Mansingh Stadium, Jaipur",RR,SRH,League,SRH,Bowl,228,6,229,5,completed,SRH,,5,9,No
+37,"April 26, 2026","Narendra Modi Stadium, Ahmedabad",CSK,GT,League,GT,Bowl,158,7,162,2,completed,GT,,8,20,No
+38,"April 26, 2026","Ekana Cricket Stadium, Lucknow",KKR,LSG,League,LSG,Bowl,155,7,155,8,completed,KKR,,2,5,Yes
+39,"April 27, 2026","Arun Jaitley Stadium, Delhi",DC,RCB,League,RCB,Bowl,75,10,77,1,completed,RCB,,9,81,No
+40,"April 28,2026","New PCA Cricket Stadium, Mullanpur",PBKS,RR,League,RR,Bowl,222,4,228,4,completed,RR,,6,4,No
+41,"April 29,2026","Wankhede Stadium, Mumbai",SRH,MI,League,MI,Bowl,243,5,249,4,completed,SRH,,6,8,No
+42,"April 30,2026","Narendra Modi Stadium, Ahmedabad",RCB,GT,League,GT,Bowl,155,10,158,6,completed,GT,,4,25,No
+43,"May 01,2026","Sawai Mansingh Stadium, Jaipur",DC,RR,League,RR,Bowl,225,6,226,3,completed,DC,,7,5,No
+44,"May 02,2026","MA Chidambaram Stadium, Chennai",MI,CSK,League,MI,Bat,157,7,160,2,completed,CSK,,8,11,No
+45,"May 03,2026","Rajiv Gandhi International Stadium, Hyderabad",SRH,KKR,League,SRH,Bat,165,10,169,3,completed,KKR,,7,10,No
+46,"May 03,2026","Narendra Modi Stadium, Ahmedabad",PBKS,GT,League,GT,Bowl,163,9,167,6,completed,GT,,4,1,No
+47,"May 04,2026","Wankhede Stadium, Mumbai",LSG,MI,League,MI,Bowl,228,5,229,4,completed,MI,,6,6,No
+48,"May 05,2026","Arun Jaitley Stadium, Delhi",DC,CSK,League,DC,Bat,155,7,159,2,completed,CSK,,8,15,No
+49,"May 06,2026","Rajiv Gandhi International Stadium, Hyderabad",SRH,PBKS,League,,,,,,,pending,,,,,
+50,"May 07,2026","Ekana Cricket Stadium, Lucknow",LSG,RCB,League,,,,,,,pending,,,,,
+51,"May 08,2026","Arun Jaitley Stadium, Delhi",DC,KKR,League,,,,,,,pending,,,,,
+52,"May 09,2026","Sawai Mansingh Stadium, Jaipur",RR,GT,League,,,,,,,pending,,,,,
+53,"May 10,2026","MA Chidambaram Stadium, Chennai",CSK,LSG,League,,,,,,,pending,,,,,
+54,"May 10,2026","Veer Narayan Singh Stadium, Raipur",RCB,MI,League,,,,,,,pending,,,,,
+55,"May 11,2026","Himachal Pradesh Stadium, Dharamshala",PBKS,DC,League,,,,,,,pending,,,,,
+56,"May 12,2026","Narendra Modi Stadium, Ahmedabad",GT,SRH,League,,,,,,,pending,,,,,
+57,"May 13,2026","Veer Narayan Singh Stadium, Raipur",RCB,KKR,League,,,,,,,pending,,,,,
+58,"May 14,2026","Himachal Pradesh Stadium, Dharamshala",PBKS,MI,League,,,,,,,pending,,,,,
+59,"May 15,2026","Ekana Cricket Stadium, Lucknow",LSG,CSK,League,,,,,,,pending,,,,,
+60,"May 16,2026","Eden Gardens, Kolkata",KKR,GT,League,,,,,,,pending,,,,,
+61,"May 17,2026","Himachal Pradesh Stadium, Dharamshala",PBKS,RCB,League,,,,,,,pending,,,,,
+62,"May 17,2026","Arun Jaitley Stadium, Delhi",DC,RR,League,,,,,,,pending,,,,,
+63,"May 18,2026","MA Chidambaram Stadium, Chennai",CSK,SRH,League,,,,,,,pending,,,,,
+64,"May 19,2026","Sawai Mansingh Stadium, Jaipur",RR,LSG,League,,,,,,,pending,,,,,
+65,"May 20,2026","Eden Gardens, Kolkata",KKR,MI,League,,,,,,,pending,,,,,
+66,"May 21,2026","Narendra Modi Stadium, Ahmedabad",GT,CSK,League,,,,,,,pending,,,,,
+67,"May 22,2026","Rajiv Gandhi International Stadium, Hyderabad",SRH,RCB,League,,,,,,,pending,,,,,
+68,"May 23,2026","Ekana Cricket Stadium, Lucknow",LSG,PBKS,League,,,,,,,pending,,,,,
+69,"May 24,2026","Wankhede Stadium, Mumbai",MI,RR,League,,,,,,,pending,,,,,
+70,"May 24,2026","Eden Gardens, Kolkata",KKR,DC,League,,,,,,,pending,,,,,
